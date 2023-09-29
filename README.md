@@ -1,4 +1,5 @@
 ### Hi there 👋
+If you used my programm, please cite them. Citation does matter. 
 
 <!--
 **chenxin199261/chenxin199261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
