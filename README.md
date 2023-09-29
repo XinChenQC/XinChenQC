@@ -1,5 +1,5 @@
 ### Hi there 👋
-If you used my program, please cite them. Citation does matter. 
+If you used my program, please cite them in you paper. Citation does matter for me. 
 
 <!--
 **chenxin199261/chenxin199261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
