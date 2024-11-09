@@ -1,5 +1,7 @@
 ### Hi there 👋
-If you used my program, please cite them in you paper. Citation does matter for me. 
+If you use my program, please cite it in your research paper. Citations are important to me!
+
+You’re also welcome to email me with any questions or to share how my program has helped you.
 
 <!--
 **chenxin199261/chenxin199261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
