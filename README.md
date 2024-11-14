@@ -3,6 +3,9 @@ If you use my program, please cite it in your research paper. Citations are impo
 
 You’re also welcome to email me with any questions or to share how my program has helped you.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XinChenQC)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **chenxin199261/chenxin199261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
